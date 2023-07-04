@@ -70,7 +70,7 @@ License
 [Specify the license you want to use for your project]
 
 Acknowledgments
-The Movie Recommendation Chatbot is powered by the OpenAI GPT-3.5 language model.
 The movie data is fetched from IMDb using web scraping techniques.
+
 Disclaimer
 The Movie Recommendation Chatbot is a personal project and not affiliated with IMDb or any other movie-related organization. The movie data provided is for informational purposes only. Use at your own discretion.

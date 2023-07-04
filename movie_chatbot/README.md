@@ -62,15 +62,15 @@ Usage
 5. The recommended movies will be displayed in the GUI, showing the movie title, IMDb rating
 
 
-Contributing
+Contributing:
 
 Contributions to the Movie Recommendation Chatbot are welcome! If you encounter any bugs, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request. Please follow the existing code style and maintain clear commit messages.
 
 License
-[Specify the license you want to use for your project]
 
-Acknowledgments
+
+Acknowledgments:
 The movie data is fetched from IMDb using web scraping techniques.
 
-Disclaimer
+Disclaimer:
 The Movie Recommendation Chatbot is a personal project and not affiliated with IMDb or any other movie-related organization. The movie data provided is for informational purposes only. Use at your own discretion.
